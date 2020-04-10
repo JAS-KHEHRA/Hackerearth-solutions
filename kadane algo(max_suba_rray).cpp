@@ -9,7 +9,7 @@ int main()
     freopen("output.txt", "w" , stdout);
     #endif
     int n;
-    cin>>n;
+    cin>>n; 
     std::vector<int> v(n);
     for(int i=0;i<n;i++)
     {
